@@ -1,6 +1,6 @@
 # Job Prep Agent
 
-A multi-agent AI system that takes a job posting and your resume, then produces personalized interview preparation materials.
+A multi-agent AI system that takes a job posting and your resume, then produces personalized Cover Letter, tailored resume, and interview preparation materials.
 
 Built for the WiCS (Women in Computer Science) workshop at ASU.
 
