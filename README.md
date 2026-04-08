@@ -86,12 +86,5 @@ job-prep-agent/
 Using `gpt-4.1-mini` (default), a single run costs approximately $0.01-0.03.
 Using `gpt-4o`, approximately $0.10-0.20 per run but with higher quality output.
 
-## Based On
-
-This follows the same multi-agent pattern as the AutoResearch pipeline from CSE 598 (Agentic AI):
-- Typed dataclass messages between agents
-- JSON between agents, Markdown to humans
-- Orchestrator validates schemas and logs traces
-- Critic loop for self-correction
 
 *Women in Computer Science | ASU*
